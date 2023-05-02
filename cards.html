@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Card Game - Cards</title>
+    <link rel="stylesheet" href="cards.css" />
+  </head>
+  <body>
+    <a href="index.html" class="back-to-game">Back to Game</a>
+    <div class="container">
+      <h1>PokeWar</h1>
+      <div id="card-list"></div>
+      <form id="add-card-form">
+        <h2>Add Card</h2>
+        <input type="text" id="card-name" placeholder="Name" />
+        <input type="text" id="card-category" placeholder="Category" />
+        <input type="number" id="card-value" placeholder="Value" />
+        <input type="text" id="card-image" placeholder="Image URL" />
+        <button type="submit">Add Card</button>
+      </form>
+    </div>
+    <div id="edit-modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <form id="edit-card-form">
+          <h2>Edit Card</h2>
+          <input type="text" id="edit-card-name" placeholder="Name" />
+          <input type="text" id="edit-card-category" placeholder="Category" />
+          <input type="number" id="edit-card-value" placeholder="Value" />
+          <input type="text" id="edit-card-image" placeholder="Image URL" />
+          <button type="submit">Update Card</button>
+        </form>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="cards.js"></script>
+  </body>
+</html>

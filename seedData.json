@@ -1,0 +1,376 @@
+[
+  {
+    "fireCards": [
+      {
+        "id": 1,
+        "category": "Fire",
+        "value": 10,
+        "name": "Charmander",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
+      },
+      {
+        "id": 2,
+        "category": "Fire",
+        "value": 11,
+        "name": "Charmeleon",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"
+      },
+      {
+        "id": 3,
+        "category": "Fire",
+        "value": 12,
+        "name": "Charizard",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"
+      },
+      {
+        "id": 4,
+        "category": "Fire",
+        "value": 4,
+        "name": "Cyndaquil",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png"
+      },
+      {
+        "id": 5,
+        "category": "Fire",
+        "value": 5,
+        "name": "Quilava",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/156.png"
+      },
+      {
+        "id": 6,
+        "category": "Fire",
+        "value": 6,
+        "name": "Typhlosion",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png"
+      },
+      {
+        "id": 7,
+        "category": "Fire",
+        "value": 7,
+        "name": "Torchic",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/255.png"
+      },
+      {
+        "id": 8,
+        "category": "Fire",
+        "value": 8,
+        "name": "Combusken",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/256.png"
+      },
+      {
+        "id": 9,
+        "category": "Fire",
+        "value": 9,
+        "name": "Blaziken",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png"
+      },
+      {
+        "id": 10,
+        "category": "Fire",
+        "value": 1,
+        "name": "Tepig",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/498.png"
+      },
+      {
+        "id": 11,
+        "category": "Fire",
+        "value": 2,
+        "name": "Pignite",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/499.png"
+      },
+      {
+        "id": 12,
+        "category": "Fire",
+        "value": 3,
+        "name": "Emboar",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/500.png"
+      },
+      {
+        "id": 13,
+        "category": "Fire",
+        "value": 13,
+        "name": "Moltres",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png"
+      }
+    ],
+    "waterCards": [
+      {
+        "id": 14,
+        "category": "Water",
+        "value": 10,
+        "name": "Squirtle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
+      },
+      {
+        "id": 15,
+        "category": "Water",
+        "value": 11,
+        "name": "Wartortle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
+      },
+      {
+        "id": 16,
+        "category": "Water",
+        "value": 12,
+        "name": "Blastoise",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
+      },
+      {
+        "id": 17,
+        "category": "Water",
+        "value": 4,
+        "name": "Totodile",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png"
+      },
+      {
+        "id": 18,
+        "category": "Water",
+        "value": 5,
+        "name": "Croconaw",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png"
+      },
+      {
+        "id": 19,
+        "category": "Water",
+        "value": 6,
+        "name": "Feraligatr",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/160.png"
+      },
+      {
+        "id": 20,
+        "category": "Water",
+        "value": 7,
+        "name": "Mudkip",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/258.png"
+      },
+      {
+        "id": 21,
+        "category": "Water",
+        "value": 8,
+        "name": "Marshtomp",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/259.png"
+      },
+      {
+        "id": 22,
+        "category": "Water",
+        "value": 9,
+        "name": "Swampert",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png"
+      },
+      {
+        "id": 23,
+        "category": "Water",
+        "value": 1,
+        "name": "Piplup",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/393.png"
+      },
+      {
+        "id": 24,
+        "category": "Water",
+        "value": 2,
+        "name": "Prinplup",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/394.png"
+      },
+      {
+        "id": 25,
+        "category": "Water",
+        "value": 3,
+        "name": "Empoleon",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/395.png"
+      },
+      {
+        "id": 26,
+        "category": "Water",
+        "value": 13,
+        "name": "Suicune",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png"
+      }
+    ],
+    "grassCards": [
+      {
+        "id": 27,
+        "category": "Grass",
+        "value": 10,
+        "name": "Bulbasaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+      },
+      {
+        "id": 28,
+        "category": "Grass",
+        "value": 11,
+        "name": "Ivysaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"
+      },
+      {
+        "id": 29,
+        "category": "Grass",
+        "value": 12,
+        "name": "Venusaur",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"
+      },
+      {
+        "id": 30,
+        "category": "Grass",
+        "value": 4,
+        "name": "Chikorita",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/152.png"
+      },
+      {
+        "id": 31,
+        "category": "Grass",
+        "value": 5,
+        "name": "Bayleef",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/153.png"
+      },
+      {
+        "id": 32,
+        "category": "Grass",
+        "value": 6,
+        "name": "Meganium",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png"
+      },
+      {
+        "id": 33,
+        "category": "Grass",
+        "value": 7,
+        "name": "Treecko",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/252.png"
+      },
+      {
+        "id": 34,
+        "category": "Grass",
+        "value": 8,
+        "name": "Grovyle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/253.png"
+      },
+      {
+        "id": 35,
+        "category": "Grass",
+        "value": 9,
+        "name": "Sceptile",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png"
+      },
+      {
+        "id": 36,
+        "category": "Grass",
+        "value": 1,
+        "name": "Turtwig",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/387.png"
+      },
+      {
+        "id": 37,
+        "category": "Grass",
+        "value": 2,
+        "name": "Grotle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/388.png"
+      },
+      {
+        "id": 38,
+        "category": "Grass",
+        "value": 3,
+        "name": "Torterra",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/389.png"
+      },
+      {
+        "id": 39,
+        "category": "Grass",
+        "value": 13,
+        "name": "Celebi",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png"
+      }
+    ],
+    "electricCards": [
+      {
+        "id": 40,
+        "category": "Electric",
+        "value": 12,
+        "name": "Pikachu",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png"
+      },
+      {
+        "id": 41,
+        "category": "Electric",
+        "value": 11,
+        "name": "Raichu",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png"
+      },
+      {
+        "id": 42,
+        "category": "Electric",
+        "value": 3,
+        "name": "Elekid",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/239.png"
+      },
+      {
+        "id": 43,
+        "category": "Electric",
+        "value": 4,
+        "name": "Electabuzz",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png"
+      },
+      {
+        "id": 44,
+        "category": "Electric",
+        "value": 5,
+        "name": "Electivire",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/466.png"
+      },
+      {
+        "id": 45,
+        "category": "Electric",
+        "value": 6,
+        "name": "Mareep",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png"
+      },
+      {
+        "id": 46,
+        "category": "Electric",
+        "value": 7,
+        "name": "Flaaffy",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png"
+      },
+      {
+        "id": 47,
+        "category": "Electric",
+        "value": 8,
+        "name": "Ampharos",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png"
+      },
+      {
+        "id": 48,
+        "category": "Electric",
+        "value": 9,
+        "name": "Shinx",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/403.png"
+      },
+      {
+        "id": 49,
+        "category": "Electric",
+        "value": 2,
+        "name": "Luxio",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/404.png"
+      },
+      {
+        "id": 50,
+        "category": "Electric",
+        "value": 10,
+        "name": "Luxray",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/405.png"
+      },
+      {
+        "id": 51,
+        "category": "Electric",
+        "value": 1,
+        "name": "Tynamo",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/602.png"
+      },
+      {
+        "id": 52,
+        "category": "Electric",
+        "value": 13,
+        "name": "Zapdos",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokemon Card Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>PokeWar</h1>
+      <form id="player-name-form">
+        <input
+          type="text"
+          id="player-name-input"
+          placeholder="Enter your name"
+        />
+        <button type="submit">Start</button>
+      </form>
+      <div id="game-board" class="hidden">
+        <div class="scores">
+          <div class="score">
+            <span id="player-name"></span>
+            <span id="player-score">0</span>
+          </div>
+          <div class="score">
+            <span id="computer-name">Ashe</span>
+            <span id="computer-score">0</span>
+          </div>
+        </div>
+        <div class="cards">
+          <div id="player-card" class="card">
+            <div id="player-card-cover" class="card-cover"></div>
+          </div>
+          <div id="computer-card" class="card">
+            <div id="computer-card-cover" class="card-cover"></div>
+          </div>
+        </div>
+        <button id="next-round">Next Round</button>
+      </div>
+      <div id="game-over" class="hidden">
+        <h2 id="game-result"></h2>
+        <button id="play-again">Play Again</button>
+        <button id="exit">Exit</button>
+      </div>
+    </div>
+    <a href="cards.html">Cards</a>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
